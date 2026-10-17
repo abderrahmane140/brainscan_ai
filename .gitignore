@@ -4,3 +4,8 @@
 .venv*/
 venv/
 env/
+
+*.iml
+*.keras
+*.xml
+.idea
