@@ -9,3 +9,5 @@ env/
 *.keras
 *.xml
 .idea
+
+data/processed/*.npz
